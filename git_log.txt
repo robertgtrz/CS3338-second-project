@@ -1,0 +1,45 @@
+commit d19fc091d40284bbadbc6484c6bfab3809c254a2
+Merge: 48d4241 a100a29
+Author: Robert <rgutie120@csula.edu>
+Date:   Thu Sep 4 15:02:56 2025 -0700
+
+    Resolve merge conflict between main and index-fix
+
+commit a100a295cea08d5bd3097930a1c2fc40216918b5
+Author: Robert <rgutie120@csula.edu>
+Date:   Thu Sep 4 14:57:19 2025 -0700
+
+    Add favorite movie div in index-fix
+
+commit 48d42410d7c6a2335fb8ec76ad54466ed6758904
+Author: Robert <rgutie120@csula.edu>
+Date:   Thu Sep 4 14:55:49 2025 -0700
+
+    Add favorite food div in main
+
+commit d436cce99395cb3edb62a60804e0da6695a0c5ab
+Author: Robert <rgutie120@csula.edu>
+Date:   Thu Sep 4 14:45:19 2025 -0700
+
+    Add README.md describing the repo
+
+commit 4c549782960c4d6f0871b3e5909f8f2cbd64e65e
+Merge: 1d2bfc0 0da1f16
+Author: Robert Gutierrez <rgutie120@calstatela.edu>
+Date:   Thu Sep 4 14:45:19 2025 -0700
+
+    Merge pull request #1 from robertgtrz/info-fill
+    
+    Filled in blanks in index.html
+
+commit 0da1f165bee1fae87d8949e0480a675ba7f28bf8
+Author: Robert <rgutie120@csula.edu>
+Date:   Thu Sep 4 14:11:59 2025 -0700
+
+    Filled in blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
